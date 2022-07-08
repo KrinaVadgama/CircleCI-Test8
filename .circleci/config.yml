@@ -1,0 +1,602 @@
+version: 2.1
+
+jobs:
+  # Job one with a unique name
+  Case_1:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_2:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_3:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_4:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_5:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_6:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_7:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_8:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_9:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_10:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_11:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_12:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_13:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_14:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_15:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_16:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_17:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_18:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_19:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_20:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_21:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_22:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: abcd
+
+  Case_23:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_24:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_25:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_26:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: qoplmkjnbh
+
+  Case_27:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_28:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_29:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_30:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_31:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_32:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: abcd
+
+  Case_33:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_34:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_35:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_36:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_37:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_38:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: abcd
+
+  Case_39:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: plmkoijnbhu
+
+  Case_40:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_41:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_42:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_43:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_44:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_45:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_46:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_47:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_48:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_49:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_50:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_51:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_52:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_53:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_54:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_55:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_56:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_57:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_58:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_59:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: echo "Say hello to YAML!"
+
+  Case_60:
+    docker:
+     - image: cimg/base:2022.05
+    steps:
+      - run: aabbccdd
+
+workflows:
+  # Name of workflow
+  workflow_1:
+    # List of jobs that will run
+    jobs:
+      - Case_1
+
+  workflow_2:
+    jobs:
+      - Case_2
+
+  workflow_3:
+    jobs:
+      - Case_3
+
+  workflow_4:
+    jobs:
+      - Case_4
+
+  workflow_5:
+    jobs:
+      - Case_5
+
+  workflow_6:
+    jobs:
+      - Case_6
+
+  workflow_7:
+    jobs:
+      - Case_7
+
+  workflow_8:
+    jobs:
+      - Case_8
+
+  workflow_9:
+    jobs:
+      - Case_9
+
+  workflow_10:
+    jobs:
+      - Case_10
+
+  workflow_11:
+    jobs:
+      - Case_11
+
+  workflow_12:
+    jobs:
+      - Case_12
+
+  workflow_13:
+    jobs:
+      - Case_13
+
+  workflow_14:
+    jobs:
+      - Case_14
+
+  workflow_15:
+    jobs:
+      - Case_16
+
+  workflow_17:
+    jobs:
+      - Case_17
+
+  workflow_18:
+    jobs:
+      - Case_18
+
+  workflow_19:
+    jobs:
+      - Case_19
+
+  workflow_20:
+    jobs:
+      - Case_20
+
+  workflow_21:
+    jobs:
+      - Case_21
+
+  workflow_22:
+    jobs:
+      - Case_22
+
+  workflow_23:
+    jobs:
+      - Case_23
+
+  workflow_24:
+    jobs:
+      - Case_24
+
+  workflow_25:
+    jobs:
+      - Case_25
+
+  workflow_26:
+    jobs:
+      - Case_26
+
+  workflow_27:
+    jobs:
+      - Case_27
+
+  workflow_28:
+    jobs:
+      - Case_28
+
+  workflow_29:
+    jobs:
+      - Case_29
+
+  workflow_30:
+    jobs:
+      - Case_30
+
+  workflow_31:
+    jobs:
+      - Case_31
+
+  workflow_32:
+    jobs:
+      - Case_32
+
+  workflow_80:
+    jobs:
+      - Case_33
+
+  workflow_34:
+    jobs:
+      - Case_34
+
+  workflow_35:
+    jobs:
+      - Case_35
+
+  workflow_36:
+    jobs:
+      - Case_36
+
+  workflow_37:
+    jobs:
+      - Case_37
+
+  workflow_38:
+    jobs:
+      - Case_38
+
+  workflow_39:
+    jobs:
+      - Case_39
+
+  workflow_40:
+    jobs:
+      - Case_40
+
+  workflow_41:
+    jobs:
+      - Case_41
+
+  workflow_42:
+    jobs:
+      - Case_42
+
+  workflow_43:
+    jobs:
+      - Case_43
+
+  workflow_44:
+    jobs:
+      - Case_44
+
+  workflow_45:
+    jobs:
+      - Case_45
+
+  workflow_46:
+    jobs:
+      - Case_46
+
+  workflow_47:
+    jobs:
+      - Case_47
+
+  workflow_48:
+    jobs:
+      - Case_48
+
+  workflow_49:
+    jobs:
+      - Case_49
+
+  workflow_50:
+    jobs:
+      - Case_50
+
+  workflow_51:
+    jobs:
+      - Case_51
+
+  workflow_52:
+    jobs:
+      - Case_52
+
+  workflow_53:
+    jobs:
+      - Case_53
+
+  workflow_54:
+    jobs:
+      - Case_54
+
+  workflow_55:
+    jobs:
+      - Case_55
+
+  workflow_56:
+    jobs:
+      - Case_56
+
+  workflow_57:
+    jobs:
+      - Case_57
+
+  workflow_58:
+    jobs:
+      - Case_58
+
+  workflow_59:
+    jobs:
+      - Case_59
+
+  workflow_60:
+    jobs:
+      - Case_50
